@@ -8,6 +8,9 @@ namespace EvenFibonacciNumbers
 {
     public class FibonacciNumbers
     {
-
+        public int FinonacciSum(int v)
+        {
+            return 0;
+        }
     }
 }
