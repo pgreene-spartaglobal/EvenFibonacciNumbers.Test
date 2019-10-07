@@ -15,7 +15,7 @@ namespace EvenFibonacciNumbers.Test
         [Test]
         public void TestFibonacciSum()
         {
-            Assert.AreEqual(231, fn.FinonacciSum(10));
+            Assert.AreEqual(4613730, fn.FinonacciSum());
         }
     }
 }
